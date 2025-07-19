@@ -5,7 +5,9 @@
 > [!TIP]
 > ### How to use PHP to do CRUD operations with QuickBooks?
 
-I'll show you how to perform CRUD operations with QuickBooks using PHP. The most common approach is using the QuickBooks Web Connector (QBWC) or the QuickBooks Online API.This PHP class provides comprehensive CRUD operations for QuickBooks Online. Here are the key features:
+I'll show you how to perform CRUD operations with QuickBooks using PHP. The most common approach is using the QuickBooks Web Connector (QBWC) or the QuickBooks Online API.<br>
+[QuickBooksCRUD.php](QuickBooksCRUD.php)<br>
+This PHP class provides comprehensive CRUD operations for QuickBooks Online. Here are the key features:
 
 **Setup Requirements:**
 - PHP 8.2+ with cURL extension
